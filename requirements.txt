@@ -26,7 +26,7 @@ idna==3.10
 influxdb-client==1.48.0
 influxdb3-python==0.11.0
 itsdangerous==2.2.0
-Jinja2==3.1.5
+Jinja2==3.1.6
 joblib==1.4.2
 kafka-python==2.0.2
 kiwisolver==1.4.8
