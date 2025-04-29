@@ -43,4 +43,4 @@ trading strategies, helping traders anticpate market direction.
 ## Links
 
 * [Presentation Video](https://www.youtube.com/watch?v=e0Ut55ddRz0)
-* [Project Paper]()
+* [Project Paper](https://github.com/jesselpalmer/cspb_4502_project/blob/main/paper/Group03_DigitalAssetsDataDrivenInsights_Part4.pdf)
