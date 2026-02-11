@@ -39,7 +39,7 @@ packaging==24.2
 pandas==2.2.3
 patsy==1.0.1
 pemja==0.4.1
-pillow==11.1.0
+pillow==12.1.1
 pmdarima==2.0.4
 proto-plus==1.26.0
 protobuf==4.23.4
